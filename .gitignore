@@ -1,2 +1,6 @@
 node_modules/
 .env
+# Add the following lines to ignore node_modules and .env files
+node_modules/
+.env
+# End of added lines
